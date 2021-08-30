@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "ionic-acmi",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
